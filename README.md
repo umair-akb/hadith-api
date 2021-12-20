@@ -42,7 +42,7 @@
 ### Available Commands
 - `yarn start` = run server.
 - `yarn dev` = run develop server.
-- `yarn crawl` = collect new data from the data source, then unifying it in one JSON file.
+- `yarn crawl` = collect new data from the data source, then unifying it in one JSON file.  
 
 ### LICENSE
 MIT
